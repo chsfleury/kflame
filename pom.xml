@@ -21,7 +21,7 @@
     <konf.version>0.20.0</konf.version>
 
     <!--LOGGING-->
-    <logback.version>1.2.3</logback.version>
+    <logback.version>1.2.13</logback.version>
 
     <!--TESTING-->
     <junit.version>5.6.0</junit.version>
